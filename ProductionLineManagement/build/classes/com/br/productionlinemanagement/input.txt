@@ -1,0 +1,19 @@
+Recorte das chapas de aço 60min
+Austêmpera 30min
+Têmpera sub-zero 45min
+Montagem de sensores de segurança 60min
+Lavagem das peças 45min
+Calibação dos eixos 30min
+Montagem dos rolamentos 45min
+Esfriamento da linha - manutenção
+Nitretação 45min
+Montagem do sub-sistema de injeção 60min
+Averição de conformidade 30min
+Montagem do sub-sistema de navegação 60min
+Calibação do sub-sistema de conversão de torque 60min
+Alinhamento da barra estabilizadora esquerda 30min
+Configuração dos dispositivos de bloqueio e controle 45min
+Alinhamento da barra estabilizadora direita 30min
+Instalação das vedações 45min
+Aplicação dos decalques 30min
+Montagem do sub-sistema de monitoramento 30min
